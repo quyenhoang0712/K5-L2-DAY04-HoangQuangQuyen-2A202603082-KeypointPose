@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603082",
+ "ten": "HoangQuangQuyen",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "admin",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000043968.jpg",
+  "000000072098.jpg",
+  "000000103970.jpg",
+  "000000137767.jpg",
+  "000000205650.jpg",
+  "000000157271.jpg",
+  "000000188804.jpg",
+  "000000311497.jpg",
+  "000000023424.jpg",
+  "000000043719.jpg",
+  "000000572411.jpg",
+  "000000413160.jpg"
+ ],
+ "faces": [
+  "face_204787.jpg",
+  "face_257657.jpg",
+  "face_496353.jpg",
+  "face_415073.jpg",
+  "face_449454.jpg",
+  "face_514826.jpg",
+  "face_405456.jpg",
+  "face_560526.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "persons-HoangQuangQuyen"
+  },
+  "faces": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "faces-HoangQuangQuyen"
+  }
+ }
+}
